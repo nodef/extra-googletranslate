@@ -1,0 +1,33 @@
+{
+  "name": "extra-googletranslate",
+  "version": "0.0.1",
+  "description": "Translate long text from one language to another (via \"Google Translate\").",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/extra-googletranslate.git"
+  },
+  "keywords": [
+    "extra",
+    "google",
+    "translate",
+    "long",
+    "text",
+    "language",
+    "cloud",
+    "cli",
+    "command",
+    "console",
+    "shell",
+    "merferry"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodef/extra-googletranslate/issues"
+  },
+  "homepage": "https://github.com/nodef/extra-googletranslate#readme"
+}
